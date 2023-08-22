@@ -1,0 +1,13 @@
+:root{
+    --color: rgba(40, 40, 218, 0.713);
+}
+* {
+    background-color: var(--color);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+}
+h2{
+    font-size: 5rem;
+}
